@@ -1,8 +1,10 @@
+$fi-path: "../bower_components/foundation-icon-fonts";
 @import "settings";
 @import "foundation";
 @import "foundation-icons";
 
+
 .extra-top-margin-row {
   @include grid-row();
-  margin-top: 3em;
+  margin-top: 2em;
 }
