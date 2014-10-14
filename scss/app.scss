@@ -8,3 +8,7 @@ $fi-path: "../bower_components/foundation-icon-fonts";
   @include grid-row();
   margin-top: 2em;
 }
+
+.columns {
+  min-height: 1px;
+}
